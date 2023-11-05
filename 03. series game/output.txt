@@ -1,0 +1,1 @@
+sum of first 1000 number of the arithmetic series is: 1500500
